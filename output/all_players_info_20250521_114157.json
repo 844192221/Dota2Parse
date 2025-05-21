@@ -1,0 +1,252 @@
+[
+    {
+        "id": "天命",
+        "name": "姜岸",
+        "nationality": "China",
+        "age": "29",
+        "current_team": "",
+        "signature_heroes": [
+            "Bounty Hunter",
+            "Elder Titan",
+            "Earth Spirit"
+        ],
+        "role": [
+            "support"
+        ],
+        "history_teams": [
+            "Speed Gaming",
+            "EHOME.K",
+            "EHOME.Luminous",
+            "EHOME.Keen",
+            "Keen Gaming",
+            "EHOME",
+            "Team Sirius",
+            "Team Aster",
+            "Dandelion EC",
+            "Ybb Gaming",
+            "Azure Ray",
+            "Xtreme Gaming",
+            "Yakult Brothers"
+        ],
+        "ti_participations": 1,
+        "ti_best_placement": "4th",
+        "status": "Active"
+    },
+    {
+        "id": "皮球",
+        "name": "余亚军",
+        "nationality": "China",
+        "age": "",
+        "current_team": "",
+        "signature_heroes": [
+            "Grimstroke",
+            "Clockwerk",
+            "Phoenix"
+        ],
+        "role": [
+            "support",
+            "captain"
+        ],
+        "history_teams": [
+            "KG.Luminous",
+            "Keen Gaming",
+            "Aster.Aries",
+            "Team Aster",
+            "Azure Ray"
+        ],
+        "ti_participations": 1,
+        "ti_best_placement": "4th",
+        "status": "Active"
+    },
+    {
+        "id": "Ana",
+        "name": "Anathan Pham",
+        "nationality": "Australia",
+        "age": "25",
+        "current_team": "",
+        "signature_heroes": [
+            "ember spirit",
+            "phantom lancer",
+            "spectre"
+        ],
+        "role": [
+            "carry",
+            "mid"
+        ],
+        "history_teams": [
+            "Mobility Gaming",
+            "Invictus Gaming",
+            "OG",
+            "Team World",
+            "Echo.Int",
+            "T1"
+        ],
+        "ti_participations": 3,
+        "ti_best_placement": "1st",
+        "status": "Inactive"
+    },
+    {
+        "id": "Antares",
+        "name": "Владислав Кертман",
+        "nationality": "Russia",
+        "age": "22",
+        "current_team": "",
+        "signature_heroes": [
+            "techies",
+            "skywrath mage",
+            "Rubick"
+        ],
+        "role": [
+            "Support"
+        ],
+        "history_teams": [
+            "X3",
+            "Team Empire",
+            "HellRaisers",
+            "9Pandas",
+            "Virtus.pro",
+            "L1GA TEAM"
+        ],
+        "ti_participations": 1,
+        "ti_best_placement": "9th - 12th",
+        "status": "Active"
+    },
+    {
+        "id": "Aramis",
+        "name": "אדם מורוז",
+        "nationality": "Israel",
+        "age": "24",
+        "current_team": "",
+        "signature_heroes": [
+            "rubick",
+            "shadow demon",
+            "tiny"
+        ],
+        "role": [
+            "support"
+        ],
+        "history_teams": [
+            "Magic Hands",
+            "Vikin.gg",
+            "Alliance"
+        ],
+        "ti_participations": 0,
+        "ti_best_placement": "",
+        "status": "InActive"
+    },
+    {
+        "id": "Ari",
+        "name": "Matthew Walker",
+        "nationality": "United Kingdom",
+        "age": "22",
+        "current_team": "",
+        "signature_heroes": [
+            "Rubick",
+            "Marci",
+            "Hoodwink"
+        ],
+        "role": [
+            "Support"
+        ],
+        "history_teams": [
+            "Chicken Fighters",
+            "Into The Breach",
+            "TSM",
+            "OG",
+            "Natus Vincere"
+        ],
+        "ti_participations": 1,
+        "ti_best_placement": "9th - 12th",
+        "status": "Active"
+    },
+    {
+        "id": "Armel",
+        "name": "Armel Paul Luna Tabios",
+        "nationality": "Philippines",
+        "age": "25",
+        "current_team": "BOOM Esports",
+        "signature_heroes": [
+            "Outworld Devourer",
+            "Templar Assassin",
+            "Invoker"
+        ],
+        "role": [
+            "mid"
+        ],
+        "history_teams": [
+            "Acion Arena",
+            "Clutch Gamers",
+            "Team Admiral",
+            "TNC Predator",
+            "Fnatic",
+            "Team Secret",
+            "Aurora Gaming",
+            "BOOM Esports"
+        ],
+        "ti_participations": 3,
+        "ti_best_placement": "9th - 12th",
+        "status": "Active"
+    },
+    {
+        "id": "Arms",
+        "name": "Danilo Silva",
+        "nationality": "Brazil",
+        "age": "",
+        "current_team": "",
+        "signature_heroes": [
+            "juggernaut",
+            "slark",
+            "ursa"
+        ],
+        "role": [
+            "carry"
+        ],
+        "history_teams": [
+            "n00neimp0rtant",
+            "idX Gaming",
+            "Encore e-Sports",
+            "VINCE TE IPSUM",
+            "Alpha Pro Gaming",
+            "Midas Club Victory",
+            "Vira-Lata Caramelo",
+            "Azules Esports",
+            "Latam Defenders",
+            "Midas Club",
+            "paiN Gaming",
+            "WP Gaming",
+            "Infinity Esports",
+            "SG esports",
+            "NoLimitsGaming",
+            "x5 Gaming"
+        ],
+        "ti_participations": 0,
+        "ti_best_placement": "",
+        "status": "Active"
+    },
+    {
+        "id": "Arteezy",
+        "name": "Artour Babaev",
+        "nationality": "Canada",
+        "age": "28",
+        "current_team": "",
+        "signature_heroes": [
+            "Terrorblade",
+            "Naga Siren",
+            "Lycan"
+        ],
+        "role": [
+            "carry"
+        ],
+        "history_teams": [
+            "Kaipi",
+            "Take Five",
+            "SadBoys",
+            "Evil Geniuses",
+            "Team Secret",
+            "Shopify Rebellion"
+        ],
+        "ti_participations": 9,
+        "ti_best_placement": "3rd",
+        "status": "Inactive"
+    }
+]

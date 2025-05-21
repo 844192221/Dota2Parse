@@ -1,0 +1,75 @@
+{{Player Tabs}}
+{{Infobox player
+|id=Emo
+|ids=HAlf
+|image=Emo 2024 PGL Wallachia Season 2.jpg
+|name=周一
+|romanized_name=Zhou Yi
+|givenname=Yi
+|familyname=Zhou
+|birth_date=2001-02-19
+|country=China
+|status=Active
+|team={{PlayerTeamAuto}}
+|role=mid
+|role2=carry
+|hero=storm spirit 
+|hero2=ember spirit
+|hero3=void spirit
+|huya=998572
+|bilibili=355451799
+|douyin=62189255381
+|faceit=igoli994
+|playerid=202217968
+|history=
+{{TH|2017-07-20 — 2018-04-??|Source Code}}
+{{TH|2018-04-?? — 2018-09-21|iG Vitality|stand-in}}
+{{THA}}
+}}
+
+{{PlayerIntro}}
+
+==Trivia==
+*Infamously typed "?" in all chat during the [[ONE Esports/Singapore Major/2021|Singapore Major 2021]] while being down 2-0 in the Grand Finals against [[Evil_Geniuses|Evil Geniuses]]. [[Invictus Gaming]] ultimately went on to win the series 3-2.<ref>{{cite web|url=https://dotesports.com/dota-2/news/invictus-gaming-reverse-sweep-evil-geniuses-win-one-esports-singapore-major|title=Invictus Gaming reverse sweep Evil Geniuses, win ONE Esports Singapore Major|author=Cale Michael|publisher=Dot Esports|date=2021-04-04}}</ref>
+*Reached 10,000 MMR on January 26, 2021.<ref>{{cite web|url=https://weibo.com/2099708877/JEV6QnFAD|title=iG.DOTA2队员Emo|language=Chinese {{Flag|cn}}|author=iG|date=2021-01-26}}</ref>
+*Reached 11,000 MMR on August 15, 2021.<ref>{{cite web|url=https://weibo.com/2099708877/KtCL7iEX5|title=iG.DOTA2队员Emo|language=Chinese {{Flag|cn}}|author=iG|date=2021-08-15}}</ref>
+*Reached 12,000 MMR on December 21, 2023.<ref>{{cite web|url=https://weibo.com/2157471171/Ny7DSun2a|title=训练日常|language=Chinese {{Flag|cn}}|author=LGD|date=2021-08-15}}</ref>
+*Reached 13,000 MMR on May 3, 2024. He is the first Chinese player to reach this milestone.<ref>{{cite web|url=https://weibo.com/5938338994/OcACClYMX|title=Emo大神已经13000了|language=Chinese {{Flag|cn}}|author=Konan宇|date=2024-05-03}}</ref>
+*Reached 14,000 MMR on August 24, 2024.<ref>{{cite web|url=https://weibo.com/7155917318/OtO2T0a8k|title=恭喜Emo大神天梯分突破14000|language=Chinese {{Flag|cn}}|author=虎牙Dota2|date=2024-08-24}}</ref>
+
+==Statistics==
+*Had the highest average KDA ('''11.97''') at [[The_International/2021|The International 2021]]. 
+*Had the highest average kills per game ('''9.00''') during [[Dota_Pro_Circuit/2021-22/3/China/Division_II|Tour 3]] of the 2021/22 DPC CN Second Division.
+*Had the highest average kills per game ('''9.55''') during [[Dota_Pro_Circuit/2023/2/China/Division_I|Tour 2]] of the 2023 DPC CN Upper Division.
+*His career high for kills in a single game is '''26'''. He achieved this feat while playing for [[Invictus Gaming]] as [[Outworld Devourer]] in their first group stage match against [[For The Dream]] during the [[Chongqing_Major/2019/China|Chongqing Major China Qualifier]].
+
+==Achievements==
+{{player achievements table}}
+
+==Awards==
+{{player awards table}}
+
+==Additional Content==
+===Interviews===
+{{ExternalMediaList|subject={{PAGENAME}}|type=Interview|seperate_years=true|show_usuk=true}}
+===Miscellaneous===
+{{ExternalMediaList|subject={{PAGENAME}}|type=Miscellaneous|seperate_years=true|show_usuk=true}}
+===Spotlights===
+{{ExternalMediaList|subject={{PAGENAME}}|type=Spotlight|seperate_years=true|show_usuk=true}}
+===Highlights===
+{{ExternalMediaList|subject={{PAGENAME}}|type=Highlight|seperate_years=true|show_usuk=true}}
+===Gallery===
+<gallery mode="packed-hover" heights="250px">
+Emo 2018 Invictus Gaming.jpg|Emo with [[Invictus Gaming]] in 2018
+Emo The Summit 11.jpg|Emo at [[The Summit/11|The Summit 11]] (2019)
+Emo DreamLeague Season 13.jpg|Emo at [[DreamLeague/Season 13|DreamLeague Season 13]] (2020)
+Emo The International 2021.jpg|Emo at [[The International/2021|The International 2021]]
+Emo 2024 PGL Wallachia Season 2.jpg|Emo at [[PGL/Wallachia/2|PGL Wallachia Season 2]] (2024)
+</gallery>
+
+==External links==
+*Alternative PlayerID: [http://www.dotabuff.com/esports/players/364481959 364481959]
+
+==References==
+{{Reflist}}
+{{Player team roster}}

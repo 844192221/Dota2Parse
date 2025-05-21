@@ -1,0 +1,2649 @@
+[
+    {
+        "id": "天命",
+        "name": "姜岸",
+        "nationality": "China",
+        "age": "29",
+        "current_team": "",
+        "signature_heroes": [
+            "Bounty Hunter",
+            "Elder Titan",
+            "Earth Spirit"
+        ],
+        "role": [
+            "support"
+        ],
+        "history_teams": [
+            "Speed Gaming",
+            "EHOME.K",
+            "EHOME.Luminous"
+        ],
+        "ti_participations": 1,
+        "ti_best_placement": "4th",
+        "status": "Active"
+    },
+    {
+        "id": "皮球",
+        "name": "余亚军",
+        "nationality": "China",
+        "age": "",
+        "current_team": "",
+        "signature_heroes": [
+            "Grimstroke",
+            "Clockwerk",
+            "Phoenix"
+        ],
+        "role": [
+            "support",
+            "captain"
+        ],
+        "history_teams": [
+            "KG.Luminous",
+            "Keen Gaming",
+            "Aster.Aries",
+            "Team Aster",
+            "Azure Ray"
+        ],
+        "ti_participations": 1,
+        "ti_best_placement": "4th",
+        "status": "Active"
+    },
+    {
+        "id": "Aramis",
+        "name": "אדם מורוז",
+        "nationality": "Israel",
+        "age": "24",
+        "current_team": "",
+        "signature_heroes": [
+            "rubick",
+            "shadow demon",
+            "tiny"
+        ],
+        "role": [
+            "support"
+        ],
+        "history_teams": [
+            "Magic Hands",
+            "Vikin.gg",
+            "Alliance"
+        ],
+        "ti_participations": 0,
+        "ti_best_placement": "",
+        "status": "InActive"
+    },
+    {
+        "id": "Ari",
+        "name": "Matthew Walker",
+        "nationality": "United Kingdom",
+        "age": "22",
+        "current_team": "",
+        "signature_heroes": [
+            "Rubick",
+            "Marci",
+            "Hoodwink"
+        ],
+        "role": [
+            "Support"
+        ],
+        "history_teams": [
+            "Chicken Fighters",
+            "Into The Breach",
+            "TSM",
+            "OG",
+            "Natus Vincere"
+        ],
+        "ti_participations": 1,
+        "ti_best_placement": "9th - 12th",
+        "status": "Active"
+    },
+    {
+        "id": "Armel",
+        "name": "Armel Paul Luna Tabios",
+        "nationality": "Philippines",
+        "age": "25",
+        "current_team": "BOOM Esports",
+        "signature_heroes": [
+            "Outworld Devourer",
+            "Templar Assassin",
+            "Invoker"
+        ],
+        "role": [
+            "mid"
+        ],
+        "history_teams": [
+            "Acion Arena",
+            "Clutch Gamers",
+            "Team Admiral",
+            "TNC Predator",
+            "Fnatic",
+            "Team Secret",
+            "Aurora Gaming",
+            "BOOM Esports"
+        ],
+        "ti_participations": 3,
+        "ti_best_placement": "9th - 12th",
+        "status": "Active"
+    },
+    {
+        "id": "Arms",
+        "name": "Danilo Silva",
+        "nationality": "Brazil",
+        "age": "",
+        "current_team": "",
+        "signature_heroes": [
+            "juggernaut",
+            "slark",
+            "ursa"
+        ],
+        "role": [
+            "carry"
+        ],
+        "history_teams": [
+            "n00neimp0rtant",
+            "idX Gaming",
+            "Encore e-Sports",
+            "VINCE TE IPSUM",
+            "Alpha Pro Gaming",
+            "Midas Club Victory",
+            "Vira-Lata Caramelo",
+            "Azules Esports",
+            "Latam Defenders"
+        ],
+        "ti_participations": 0,
+        "ti_best_placement": "",
+        "status": "Active"
+    },
+    {
+        "id": "Arteezy",
+        "name": "Artour Babaev",
+        "nationality": "Canada",
+        "age": "28",
+        "current_team": "",
+        "signature_heroes": [
+            "Terrorblade",
+            "Naga Siren",
+            "Lycan"
+        ],
+        "role": [
+            "carry"
+        ],
+        "history_teams": [
+            "Kaipi",
+            "Take Five",
+            "SadBoys",
+            "Evil Geniuses",
+            "Team Secret",
+            "Shopify Rebellion"
+        ],
+        "ti_participations": 9,
+        "ti_best_placement": "3rd",
+        "status": "Inactive"
+    },
+    {
+        "id": "Artstyle",
+        "name": "Іван Антонов",
+        "nationality": "Ukraine",
+        "age": "36",
+        "current_team": "",
+        "signature_heroes": [
+            "Chen",
+            "Night Stalker",
+            "Enchantress"
+        ],
+        "role": [
+            "coach",
+            "support"
+        ],
+        "history_teams": [
+            "2010-06-31 — 2010-12-25",
+            "2010-12-25 — 2011-10-03",
+            "Darer",
+            "Team Kharkiv",
+            "Eclypsia",
+            "Relax",
+            "HellRaisers",
+            "Natasha ishet Parnya",
+            "ScaryFaceZ",
+            "Natus Vincere",
+            "Virtus.pro",
+            "Winstrike Team",
+            "EXTREMUM",
+            "PuckChamp",
+            "NAVI Junior"
+        ],
+        "ti_participations": 4,
+        "ti_best_placement": "1st",
+        "status": "Active"
+    },
+    {
+        "id": "Aui_2000",
+        "name": "Kurtis Daniel Ling",
+        "nationality": "Canada",
+        "age": "32",
+        "current_team": "Team Falcons",
+        "signature_heroes": [
+            "Visage",
+            "Chen",
+            "Ench"
+        ],
+        "role": [
+            "coach",
+            "caster"
+        ],
+        "history_teams": [
+            "PotM Bottom",
+            "Team Dignitas"
+        ],
+        "ti_participations": 5,
+        "ti_best_placement": "1st",
+        "status": "Active"
+    },
+    {
+        "id": "Awoke",
+        "name": "叶靓",
+        "nationality": "China",
+        "age": "37",
+        "current_team": "",
+        "signature_heroes": [
+            "Enigma",
+            "Visage",
+            "Enchantress"
+        ],
+        "role": [
+            "support"
+        ],
+        "history_teams": [
+            "IFNT",
+            "CYC",
+            "G5",
+            "TyLoo",
+            "iG.Z",
+            "Tongfu"
+        ],
+        "ti_participations": 2,
+        "ti_best_placement": "7th - 8th",
+        "status": "Retired"
+    },
+    {
+        "id": "Axypa",
+        "name": "Богдан Бойчук",
+        "nationality": "Ukraine",
+        "age": "",
+        "current_team": "",
+        "signature_heroes": [
+            "Lich",
+            "Abaddon",
+            "Crystal Maiden"
+        ],
+        "role": [
+            "support"
+        ],
+        "history_teams": [
+            "2007 — 2008",
+            "Explosive",
+            "DTS",
+            "MyRevenge.UA",
+            "Planet-X",
+            "Natus Vincere",
+            "2014-01-16 — 2014-01-23"
+        ],
+        "ti_participations": 0,
+        "ti_best_placement": "",
+        "status": "Retired"
+    },
+    {
+        "id": "Ayo",
+        "name": "范天佑",
+        "nationality": "China",
+        "age": "30",
+        "current_team": "",
+        "signature_heroes": [
+            "Ancient Apparition",
+            "Mirana",
+            "Rubick"
+        ],
+        "role": [
+            "support"
+        ],
+        "history_teams": [
+            "CIS Game",
+            "Dream Gaming",
+            "White Fries Gaming",
+            "Vici Gaming Potential",
+            "VGJ.Thunder",
+            "Rock.Y",
+            "StarLucK",
+            "IamPoint Club",
+            "Death Squad"
+        ],
+        "ti_participations": 1,
+        "ti_best_placement": "18th - 19th",
+        "status": "Inactive"
+    },
+    {
+        "id": "BLink",
+        "name": "周扬",
+        "nationality": "China",
+        "age": "32",
+        "current_team": "All Gamers Global",
+        "signature_heroes": [
+            "Death Prophet",
+            "Invoker",
+            "Timbersaw"
+        ],
+        "role": [
+            "coach",
+            "mid"
+        ],
+        "history_teams": [
+            "Sun Gaming",
+            "You Know Who"
+        ],
+        "ti_participations": 1,
+        "ti_best_placement": "1st",
+        "status": "Active"
+    },
+    {
+        "id": "BOOM",
+        "name": "Miroslav Bičan",
+        "nationality": "Czech Republic",
+        "age": "25",
+        "current_team": "Natus Vincere",
+        "signature_heroes": [
+            "storm spirit",
+            "ember spirit",
+            "invoker"
+        ],
+        "role": [
+            "offlane",
+            "mid"
+        ],
+        "history_teams": [
+            "PRIES",
+            "Hippomaniacs",
+            "SworDDarK-",
+            "Vikin.gg",
+            "Team Tickles",
+            "Gaimin Gladiators",
+            "Team Secret",
+            "PuckChamp",
+            "Natus Vincere"
+        ],
+        "ti_participations": 1,
+        "ti_best_placement": "9th - 12th",
+        "status": "Active"
+    },
+    {
+        "id": "BOne7",
+        "name": "Pittner Armand",
+        "nationality": "Romania",
+        "age": "34",
+        "current_team": "",
+        "signature_heroes": [
+            "batrider",
+            "clockwerk",
+            "mirana"
+        ],
+        "role": [
+            "support",
+            "offlane"
+        ],
+        "history_teams": [
+            "GamersLeague",
+            "Kaipi",
+            "RSnake.int",
+            "Speed.int",
+            "Cloud9",
+            "Prodota Gaming",
+            "Team NP",
+            "Tuho",
+            "No Bounty Hunter",
+            "MangoBay",
+            "WU TANG",
+            "Flying Penguins",
+            "Freelancers",
+            "Vikin.gg"
+        ],
+        "ti_participations": 2,
+        "ti_best_placement": "5th - 6th",
+        "status": "Inactive"
+    },
+    {
+        "id": "BYB",
+        "name": "Mark Adrian Gavin",
+        "nationality": "Philippines",
+        "age": "31",
+        "current_team": "",
+        "signature_heroes": [],
+        "role": [
+            "offlane",
+            "coach"
+        ],
+        "history_teams": [
+            "Pacific.Emaxx",
+            "MSI-evoGT.TnC",
+            "Execration"
+        ],
+        "ti_participations": 0,
+        "ti_best_placement": "",
+        "status": "Inactive"
+    },
+    {
+        "id": "Banana",
+        "name": "王蛟",
+        "nationality": "China",
+        "age": "",
+        "current_team": "",
+        "signature_heroes": [
+            "Enchantress",
+            "Rubick",
+            "Chen"
+        ],
+        "role": [
+            "coach",
+            "support"
+        ],
+        "history_teams": [
+            "2009-10-?? — 2010-02-??",
+            "Nirvana.cn",
+            "Radiance",
+            "2011-03-02 — 2011-11-23",
+            "For.Love",
+            "TongFu",
+            "Invictus Gaming",
+            "Newbee",
+            "LGD Gaming",
+            "LGD.Forever Young",
+            "Royal Never Give Up"
+        ],
+        "ti_participations": 5,
+        "ti_best_placement": "1st",
+        "status": "Inactive"
+    },
+    {
+        "id": "Bdiz",
+        "name": "Robert Tinnes",
+        "nationality": "United States",
+        "age": "",
+        "current_team": "",
+        "signature_heroes": [
+            "Shadow Demon",
+            "Keeper of the Light"
+        ],
+        "role": [
+            "support",
+            "coach"
+        ],
+        "history_teams": [
+            "Evil Geniuses",
+            "Team Dignitas"
+        ],
+        "ti_participations": 0,
+        "ti_best_placement": "",
+        "status": "Retired"
+    },
+    {
+        "id": "Bl00DAnGeL",
+        "name": "Вадим Трушкин",
+        "nationality": "Russia",
+        "age": "32",
+        "current_team": "",
+        "signature_heroes": [],
+        "role": [
+            "mid"
+        ],
+        "history_teams": [
+            "The Retry",
+            "DTS Gaming",
+            "Moscow Five",
+            "iLuminate"
+        ],
+        "ti_participations": 1,
+        "ti_best_placement": "13th - 16th",
+        "status": "Retired"
+    },
+    {
+        "id": "Black^",
+        "name": "Dominik Reitmeier",
+        "nationality": "Germany",
+        "age": "31",
+        "current_team": "",
+        "signature_heroes": [
+            "Anti-Mage",
+            "Gyrocopter",
+            "void"
+        ],
+        "role": [
+            "analyst",
+            "carry"
+        ],
+        "history_teams": [
+            "Gamersleague",
+            "Next.kz",
+            "mousesports",
+            "The GD B-Team",
+            "Team Zero",
+            "LGD.int",
+            "CIS Game",
+            "Vici Gaming",
+            "Team Tinker",
+            "Fnatic",
+            "NO-VASELINE",
+            "Team Faceless",
+            "Clutch Gamers",
+            "Entity Gaming",
+            "Infamous",
+            "T1",
+            "LGD International"
+        ],
+        "ti_participations": 3,
+        "ti_best_placement": "13th - 16th",
+        "status": "Inactive"
+    },
+    {
+        "id": "Blitz",
+        "name": "William Lee",
+        "nationality": "United States",
+        "age": "35",
+        "current_team": "Team Liquid",
+        "signature_heroes": [
+            "Storm Spirit",
+            "Timbersaw",
+            "Queen of Pain"
+        ],
+        "role": [
+            "coach",
+            "caster"
+        ],
+        "history_teams": [
+            "ROOT Gaming",
+            "Turtle Masters",
+            "Team Dignitas",
+            "For Our Utopia",
+            "Team Zephyr",
+            "FIRE",
+            "Team Liquid",
+            "Digital Chaos",
+            "Thunderbirds",
+            "Planet Odd"
+        ],
+        "ti_participations": 1,
+        "ti_best_placement": "1st",
+        "status": "Active"
+    },
+    {
+        "id": "Blizzy",
+        "name": "Евгений Ри",
+        "nationality": "Kyrgyzstan",
+        "age": "30",
+        "current_team": "",
+        "signature_heroes": [
+            "axe",
+            "centaur warrunner",
+            "furion"
+        ],
+        "role": [
+            "offlaner",
+            "support"
+        ],
+        "history_teams": [
+            "NoLifer5",
+            "NoLifer5.Reborn"
+        ],
+        "ti_participations": 1,
+        "ti_best_placement": "13th - 16th",
+        "status": "Active"
+    },
+    {
+        "id": "Blowyourbrain",
+        "name": "Владислав Морозюк",
+        "nationality": "Russia",
+        "age": "32",
+        "current_team": "",
+        "signature_heroes": [
+            "Undying",
+            "Chaos Knight"
+        ],
+        "role": [
+            "carry",
+            "support"
+        ],
+        "history_teams": [
+            "The Retry",
+            "DTS Gaming",
+            "Team Empire",
+            "Virtus.pro",
+            "Moscow 5",
+            "NewAfkTeam",
+            "Elements One",
+            "LQ"
+        ],
+        "ti_participations": 0,
+        "ti_best_placement": "",
+        "status": "Inactive"
+    },
+    {
+        "id": "BoBoKa",
+        "name": "叶智标",
+        "nationality": "China",
+        "age": "28",
+        "current_team": "Yakult Brothers",
+        "signature_heroes": [
+            "Earth Spirit",
+            "Rubick",
+            "Monkey King"
+        ],
+        "role": [
+            "support",
+            "captain"
+        ],
+        "history_teams": [
+            "TongFu.WanZhou",
+            "DK Scuderia",
+            "iG.Vitality",
+            "Invictus Gaming",
+            "Team Aster",
+            "BOOM Esports",
+            "G2 x iG",
+            "Yakult Brothers"
+        ],
+        "ti_participations": 5,
+        "ti_best_placement": "4th",
+        "status": "Active"
+    },
+    {
+        "id": "Boomy",
+        "name": "Marvin Salvador Gilos Rushton",
+        "nationality": "Philippines",
+        "age": "32",
+        "current_team": "",
+        "signature_heroes": [
+            "earthshaker",
+            "magnus",
+            "nyx assassin"
+        ],
+        "role": [
+            "support",
+            "captain"
+        ],
+        "history_teams": [
+            "Rave",
+            "MSI-EvoGT",
+            "Arcanys",
+            "Clutch Gamers",
+            "Team Admiral",
+            "Team Amplfy",
+            "Adroit Esports",
+            "Omega Esports",
+            "TNC Predator",
+            "Polaris Esports",
+            "Team SMG",
+            "747",
+            "Blind Owl Esports"
+        ],
+        "ti_participations": 0,
+        "ti_best_placement": "",
+        "status": "Active"
+    },
+    {
+        "id": "Boxi",
+        "name": "Samuel Svahn",
+        "nationality": "Sweden",
+        "age": "27",
+        "current_team": "Team Liquid",
+        "signature_heroes": [
+            "Tusk",
+            "Rubick",
+            "Clockwerk"
+        ],
+        "role": [
+            "support",
+            "offlane"
+        ],
+        "history_teams": [
+            "Evil Corporation"
+        ],
+        "ti_participations": 4,
+        "ti_best_placement": "1st",
+        "status": "Active"
+    },
+    {
+        "id": "Bryle",
+        "name": "Jonathan Bryle Santos De Guia",
+        "nationality": "Canada",
+        "age": "",
+        "current_team": "",
+        "signature_heroes": [
+            "queen of pain",
+            "templar assassin",
+            "storm spirit"
+        ],
+        "role": [
+            "mid"
+        ],
+        "history_teams": [
+            "Iceberg Esports",
+            "CES"
+        ],
+        "ti_participations": 3,
+        "ti_best_placement": "9th - 12th",
+        "status": "Active"
+    },
+    {
+        "id": "BuLba",
+        "name": "ಕನಿಶ್ಕ ಸೋಸಲೆ",
+        "nationality": "United States",
+        "age": "33",
+        "current_team": "Shopify Rebellion",
+        "signature_heroes": [
+            "Clockwerk",
+            "Batrider",
+            "Beastmaster"
+        ],
+        "role": [
+            "coach",
+            "support"
+        ],
+        "history_teams": [
+            "EZ Style",
+            "It's Gosu eSports",
+            "Evil Geniuses"
+        ],
+        "ti_participations": 5,
+        "ti_best_placement": "7th - 8th",
+        "status": "Active"
+    },
+    {
+        "id": "BurNIng",
+        "name": "徐志雷",
+        "nationality": "China",
+        "age": "37",
+        "current_team": "",
+        "signature_heroes": [
+            "Anti-Mage",
+            "Morphling",
+            "Luna"
+        ],
+        "role": [
+            "streamer",
+            "coach"
+        ],
+        "history_teams": [
+            "2008-10-01 — 2008-11-01",
+            "7L",
+            "Ks.cn",
+            "CityHunter",
+            "EHOME",
+            "Team DK",
+            "2011-01-14 — 2014-08-17",
+            "Big God",
+            "Invictus Gaming",
+            "Vici Gaming",
+            "Team Aster"
+        ],
+        "ti_participations": 5,
+        "ti_best_placement": "4th",
+        "status": "Retired"
+    },
+    {
+        "id": "Bzm",
+        "name": "Божидар Богданов",
+        "nationality": "Bulgaria",
+        "age": "20",
+        "current_team": "Tundra Esports",
+        "signature_heroes": [
+            "Invoker",
+            "Puck",
+            "Ember Spirit"
+        ],
+        "role": [
+            "Solo Middle"
+        ],
+        "history_teams": [
+            "Creepwave",
+            "OG",
+            "Tundra Esports"
+        ],
+        "ti_participations": 1,
+        "ti_best_placement": "7th - 8th",
+        "status": "Active"
+    },
+    {
+        "id": "Cast",
+        "name": "Mark Pilar",
+        "nationality": "Philippines",
+        "age": "38",
+        "current_team": "",
+        "signature_heroes": [
+            "Chen",
+            "Witch Doctor"
+        ],
+        "role": [
+            "manager"
+        ],
+        "history_teams": [
+            "EoT Hammer",
+            "Rave",
+            "MSI-EvoGT",
+            "Mineski",
+            "TnC Gaming",
+            "TaskUs Titans",
+            "Team Amplfy",
+            "ALPHA Esports Pro"
+        ],
+        "ti_participations": 0,
+        "ti_best_placement": "",
+        "status": "Inactive"
+    },
+    {
+        "id": "Ceb",
+        "name": "Sébastien Félix Albert Debs",
+        "nationality": "France",
+        "age": "33",
+        "current_team": "",
+        "signature_heroes": [
+            "Axe",
+            "Windrunner",
+            "Magnus"
+        ],
+        "role": [
+            "support",
+            "captain"
+        ],
+        "history_teams": [
+            "Team Shakira",
+            "Western Wolves",
+            "DD.Dota",
+            "Basically Unknown"
+        ],
+        "ti_participations": 5,
+        "ti_best_placement": "1st",
+        "status": "Active"
+    },
+    {
+        "id": "CemaTheSlayeR",
+        "name": "Семён Кривуля",
+        "nationality": "Ukraine",
+        "age": "31",
+        "current_team": "",
+        "signature_heroes": [
+            "Disruptor",
+            "Rubick",
+            "Dazzle"
+        ],
+        "role": [
+            "coach",
+            "support"
+        ],
+        "history_teams": [
+            "Aurochs",
+            "DTS2010",
+            "Courage",
+            "Ahead Gaming",
+            "Aware",
+            "BUHLO-UroPb",
+            "The Pango",
+            "FlyToMoon"
+        ],
+        "ti_participations": 1,
+        "ti_best_placement": "3rd",
+        "status": "Active"
+    },
+    {
+        "id": "ChYuaN",
+        "name": "黄纪铨",
+        "nationality": "Malaysia",
+        "age": "29",
+        "current_team": "",
+        "signature_heroes": [
+            "Ember Spirit",
+            "Dragon Knight",
+            "Invoker"
+        ],
+        "role": [
+            "mid",
+            "captain"
+        ],
+        "history_teams": [
+            "Team Bazaar.Youth",
+            "WG.Y",
+            "WG.Unity",
+            "Geek Fam",
+            "Lotac",
+            "Team Aster",
+            "ZeroTwo",
+            "Fnatic",
+            "Alliance",
+            "Talon Esports"
+        ],
+        "ti_participations": 1,
+        "ti_best_placement": "9th - 12th",
+        "status": "Active"
+    },
+    {
+        "id": "Chalice",
+        "name": "杨沈仪",
+        "nationality": "China",
+        "age": "26",
+        "current_team": "",
+        "signature_heroes": [
+            "Dark Seer",
+            "Clockwerk",
+            "Batrider"
+        ],
+        "role": [
+            "offlane",
+            "carry"
+        ],
+        "history_teams": [
+            "MAX.Y",
+            "Team MAX",
+            "PSG.LGD",
+            "EHOME",
+            "RNG",
+            "Azure Ray"
+        ],
+        "ti_participations": 4,
+        "ti_best_placement": "2nd",
+        "status": "Active"
+    },
+    {
+        "id": "Chawy",
+        "name": "黄心磊",
+        "nationality": "Singapore",
+        "age": "33",
+        "current_team": "",
+        "signature_heroes": [],
+        "role": [
+            "support"
+        ],
+        "history_teams": [
+            "Scythe Gaming"
+        ],
+        "ti_participations": 1,
+        "ti_best_placement": "3rd",
+        "status": "Retired"
+    },
+    {
+        "id": "Chessie",
+        "name": "Rasmus Blomdin",
+        "nationality": "Sweden",
+        "age": "32",
+        "current_team": "",
+        "signature_heroes": [
+            "Invoker",
+            "Chaos Knight",
+            "Lone Druid"
+        ],
+        "role": [
+            "mid",
+            "offlane"
+        ],
+        "history_teams": [
+            "stayGreen",
+            "Ninjas in Pyjamas",
+            "compLexity Gaming",
+            "WanteD",
+            "The Final Tribe",
+            "GODSENT",
+            "OG Seed",
+            "5men",
+            "Chicken Fighters",
+            "High Coast Esports",
+            "Into The Breach",
+            "EU Rejects"
+        ],
+        "ti_participations": 1,
+        "ti_best_placement": "4th",
+        "status": "Inactive"
+    },
+    {
+        "id": "Chisbug",
+        "name": "李晨",
+        "nationality": "China",
+        "age": "35",
+        "current_team": "",
+        "signature_heroes": [
+            "Skywrath Mage",
+            "Ancient Apparition",
+            "Rubick"
+        ],
+        "role": [
+            "coach",
+            "support"
+        ],
+        "history_teams": [
+            "LGD Gaming",
+            "iG.Y",
+            "Invictus Gaming",
+            "Newbee",
+            "Newbee Young",
+            "White Fries Gaming",
+            "Team EVER",
+            "Team Aster"
+        ],
+        "ti_participations": 0,
+        "ti_best_placement": "",
+        "status": "Inactive"
+    },
+    {
+        "id": "Chris_Luck",
+        "name": "Jean Pierre Gonzales Salazar",
+        "nationality": "Peru",
+        "age": "27",
+        "current_team": "",
+        "signature_heroes": [
+            "Templar Assassin",
+            "Shadow Fiend",
+            "Queen of Pain"
+        ],
+        "role": [
+            "mid"
+        ],
+        "history_teams": [
+            "Majestic esports",
+            "Team Anvorgesa",
+            "Infamous",
+            "beastcoast",
+            "Evil Geniuses"
+        ],
+        "ti_participations": 4,
+        "ti_best_placement": "7th - 8th",
+        "status": "Active"
+    },
+    {
+        "id": "ChuaN",
+        "name": "黄福全",
+        "nationality": "Malaysia",
+        "age": "33",
+        "current_team": "",
+        "signature_heroes": [
+            "Disruptor",
+            "Enchantress",
+            "Lion"
+        ],
+        "role": [
+            "coach",
+            "support"
+        ],
+        "history_teams": [
+            "2009",
+            "Kingsurf",
+            "Aeon",
+            "ToT",
+            "Deity",
+            "Nirvana.my",
+            "2011-01-25 — 2011-08-02",
+            "iG.Y",
+            "Invictus Gaming"
+        ],
+        "ti_participations": 5,
+        "ti_best_placement": "1st",
+        "status": "Active"
+    },
+    {
+        "id": "Cloud",
+        "name": "Александр Захаров",
+        "nationality": "Russia",
+        "age": "25",
+        "current_team": "",
+        "signature_heroes": [
+            "Mars",
+            "Timbersaw",
+            "Beastmaster"
+        ],
+        "role": [
+            "offlane"
+        ],
+        "history_teams": [
+            "Siberian Team",
+            "Husky eSports"
+        ],
+        "ti_participations": 1,
+        "ti_best_placement": "9th - 12th",
+        "status": "Active"
+    },
+    {
+        "id": "Collapse",
+        "name": "Магомед Халилов",
+        "nationality": "Russia",
+        "age": "23",
+        "current_team": "Team Spirit",
+        "signature_heroes": [
+            "Magnus",
+            "Mars",
+            "Tidehunter"
+        ],
+        "role": [
+            "Offlane"
+        ],
+        "history_teams": [
+            "Cascade",
+            "Yellow Submarine",
+            "Team Spirit"
+        ],
+        "ti_participations": 4,
+        "ti_best_placement": "1st",
+        "status": "Active"
+    },
+    {
+        "id": "ComeWithMe",
+        "name": "Alexandru Craciunescu",
+        "nationality": "Romania",
+        "age": "32",
+        "current_team": "",
+        "signature_heroes": [
+            "Visage",
+            "Vengeful Spirit",
+            "Rubick"
+        ],
+        "role": [
+            "support"
+        ],
+        "history_teams": [
+            "2008",
+            "diXi",
+            "Wait 4 Team",
+            "AirWalk",
+            "neXt!Please",
+            "The Elder Gods",
+            "2011-08-11 — 2011-11-23",
+            "Poor Happy Guys",
+            "Team Dignitas",
+            "Darer",
+            "mousesports",
+            "Absolute Legends",
+            "QPAD Red Pandas",
+            "Kaipi",
+            "Super Strong Dinosaurs",
+            "hehe united",
+            "Burden United",
+            "Prodota Gaming",
+            "Kingdra",
+            "London eSports",
+            "Freelancers",
+            "Wind and Rain"
+        ],
+        "ti_participations": 1,
+        "ti_best_placement": "7th - 8th",
+        "status": "Retired"
+    },
+    {
+        "id": "Copy",
+        "name": "Philipp Bühler",
+        "nationality": "Germany",
+        "age": "",
+        "current_team": "Natus Vincere",
+        "signature_heroes": [
+            "Tinker",
+            "Storm Spirit",
+            "Invoker"
+        ],
+        "role": [
+            "Mid"
+        ],
+        "history_teams": [
+            "IVY",
+            "Nouns Esports",
+            "Into The Breach",
+            "Natus Vincere"
+        ],
+        "ti_participations": 1,
+        "ti_best_placement": "9th - 12th",
+        "status": "Active"
+    },
+    {
+        "id": "Corey_(American_player)",
+        "name": "Corey Wright",
+        "nationality": "United States",
+        "age": "",
+        "current_team": "",
+        "signature_heroes": [
+            "Morphling",
+            "Slark",
+            "mirana"
+        ],
+        "role": [
+            "carry"
+        ],
+        "history_teams": [
+            "Stay Free",
+            "Team Zephyr",
+            "Team eHug"
+        ],
+        "ti_participations": 0,
+        "ti_best_placement": "",
+        "status": "Retired"
+    },
+    {
+        "id": "Costabile",
+        "name": "Guilherme Silva Costábile",
+        "nationality": "Brazil",
+        "age": "",
+        "current_team": "Infinity",
+        "signature_heroes": [
+            "juggernaut",
+            "terrorblade",
+            "lifestealer"
+        ],
+        "role": [
+            "carry"
+        ],
+        "history_teams": [
+            "G3nerationX",
+            "Keyd Stars"
+        ],
+        "ti_participations": 2,
+        "ti_best_placement": "13th - 16th",
+        "status": "Active"
+    },
+    {
+        "id": "Cr1t-",
+        "name": "Andreas Franck Nielsen",
+        "nationality": "Denmark",
+        "age": "28",
+        "current_team": "Team Falcons",
+        "signature_heroes": [
+            "Earth Spirit",
+            "Rubick",
+            "Hoodwink"
+        ],
+        "role": [
+            "support"
+        ],
+        "history_teams": [
+            "Gamer University",
+            "We haz Asian",
+            "H2k Gaming",
+            "DD.Dota"
+        ],
+        "ti_participations": 8,
+        "ti_best_placement": "3rd",
+        "status": "Active"
+    },
+    {
+        "id": "Crazy",
+        "name": "Олег Колесниченко",
+        "nationality": "Russia",
+        "age": "",
+        "current_team": "",
+        "signature_heroes": [
+            "Puck",
+            "Queen of Pain",
+            "Invoker"
+        ],
+        "role": [
+            "mid"
+        ],
+        "history_teams": [
+            "Virtus.pro",
+            "Poseidon",
+            "Relax",
+            "Walrus Punch!",
+            "Big Red Machine",
+            "Enso",
+            "Rebels",
+            "FlipSid3 Tactics",
+            "Skorokhod+4",
+            "PENTA Sports",
+            "HFZ",
+            "INXY.GG"
+        ],
+        "ti_participations": 1,
+        "ti_best_placement": "13th - 16th",
+        "status": "Retired"
+    },
+    {
+        "id": "Crystallis",
+        "name": "Remco Arets",
+        "nationality": "Netherlands",
+        "age": "23",
+        "current_team": "Tundra Esports",
+        "signature_heroes": [
+            "Monkey King",
+            "bloodseeker",
+            "razor"
+        ],
+        "role": [
+            "carry"
+        ],
+        "history_teams": [
+            "B8",
+            "Creepwave",
+            "Ghost Frogs",
+            "Entity",
+            "Team Secret",
+            "PARIVISION",
+            "Tundra Esports"
+        ],
+        "ti_participations": 1,
+        "ti_best_placement": "2nd",
+        "status": "Active"
+    },
+    {
+        "id": "Crystallize",
+        "name": "Владислав Кристанек",
+        "nationality": "Ukraine",
+        "age": "25",
+        "current_team": "",
+        "signature_heroes": [
+            "Lifestealer",
+            "Faceless Void",
+            "Sven"
+        ],
+        "role": [
+            "carry",
+            "captain"
+        ],
+        "history_teams": [
+            "Cascade",
+            "Chew Toy"
+        ],
+        "ti_participations": 1,
+        "ti_best_placement": "13th - 16th",
+        "status": "Active"
+    },
+    {
+        "id": "Cty",
+        "name": "陈天宇",
+        "nationality": "China",
+        "age": "30",
+        "current_team": "",
+        "signature_heroes": [
+            "Queen of Pain",
+            "Storm Spirit",
+            "Juggernaut"
+        ],
+        "role": [
+            "carry",
+            "mid"
+        ],
+        "history_teams": [
+            "Vici Gaming",
+            "RisingStars",
+            "HyperGloryTeam"
+        ],
+        "ti_participations": 1,
+        "ti_best_placement": "5th - 6th",
+        "status": "Active"
+    },
+    {
+        "id": "DD",
+        "name": "谢彬",
+        "nationality": "China",
+        "age": "",
+        "current_team": "Old Boys",
+        "signature_heroes": [
+            "Shadow Demon",
+            "Jakiro",
+            "Sand King"
+        ],
+        "role": [
+            "support"
+        ],
+        "history_teams": [
+            "TyLoo",
+            "LGD.cn",
+            "Old Boys"
+        ],
+        "ti_participations": 4,
+        "ti_best_placement": "3rd",
+        "status": "Inactive"
+    },
+    {
+        "id": "DJ",
+        "name": "Djardel Jicko B. Mampusti",
+        "nationality": "Philippines",
+        "age": "30",
+        "current_team": "",
+        "signature_heroes": [
+            "Enigma",
+            "Rubick",
+            "Earth Spirit"
+        ],
+        "role": [
+            "support"
+        ],
+        "history_teams": [
+            "Eyes of Tiger",
+            "Rave",
+            "MSI-EvoGT",
+            "Fnatic",
+            "Execration",
+            "Bleed Esports",
+            "BOOM Esports"
+        ],
+        "ti_participations": 6,
+        "ti_best_placement": "4th",
+        "status": "Active"
+    },
+    {
+        "id": "DM",
+        "name": "Дмитрий Дорохин",
+        "nationality": "Russia",
+        "age": "25",
+        "current_team": "PARIVISION",
+        "signature_heroes": [
+            "Timbersaw",
+            "Beastmaster",
+            "Venomancer"
+        ],
+        "role": [
+            "offlane"
+        ],
+        "history_teams": [
+            "Underdogs"
+        ],
+        "ti_participations": 2,
+        "ti_best_placement": "5th - 6th",
+        "status": "Active"
+    },
+    {
+        "id": "Dark",
+        "name": "宋润玺",
+        "nationality": "China",
+        "age": "",
+        "current_team": "",
+        "signature_heroes": [
+            "Lich",
+            "bane",
+            "batrider"
+        ],
+        "role": [
+            "support",
+            "offlane"
+        ],
+        "history_teams": [
+            "EHOME.Keen",
+            "Keen Gaming"
+        ],
+        "ti_participations": 1,
+        "ti_best_placement": "13th - 16th",
+        "status": "Retired"
+    },
+    {
+        "id": "DarkMago",
+        "name": "Oswaldo Gonzalo Herrera Martínez",
+        "nationality": "Peru",
+        "age": "",
+        "current_team": "OG.LATAM",
+        "signature_heroes": [
+            "Mars",
+            "Tiny",
+            "Kunkka"
+        ],
+        "role": [
+            "mid",
+            "captain"
+        ],
+        "history_teams": [
+            "Vicious Gaming",
+            "Cream Esports",
+            "Incubus Club"
+        ],
+        "ti_participations": 2,
+        "ti_best_placement": "5th - 6th",
+        "status": "Active"
+    },
+    {
+        "id": "Davai_Lama",
+        "name": "Cedric Alexander Deckmyn",
+        "nationality": "Belgium",
+        "age": "",
+        "current_team": "Shopify Rebellion",
+        "signature_heroes": [
+            "timber",
+            "ench",
+            "mars"
+        ],
+        "role": [
+            "Offlane",
+            "support"
+        ],
+        "history_teams": [
+            "D2 Hustlers",
+            "Wildcard Gaming",
+            "D1 Hustlers",
+            "Luna Galaxy",
+            "HEROIC",
+            "OG",
+            "Shopify Rebellion"
+        ],
+        "ti_participations": 1,
+        "ti_best_placement": "9th - 12th",
+        "status": "Active"
+    },
+    {
+        "id": "Daxak",
+        "name": "Никита Кузьмин",
+        "nationality": "Russia",
+        "age": "28",
+        "current_team": "Virtus.pro",
+        "signature_heroes": [
+            "Visage",
+            "Furion",
+            "Enigma"
+        ],
+        "role": [
+            "offlane",
+            "carry"
+        ],
+        "history_teams": [
+            "Digital Company",
+            "Hive",
+            "Thug Life",
+            "Prosti Esli"
+        ],
+        "ti_participations": 1,
+        "ti_best_placement": "19th - 20th",
+        "status": "Active"
+    },
+    {
+        "id": "Ddc",
+        "name": "梁發明",
+        "nationality": "Macau",
+        "age": "34",
+        "current_team": "",
+        "signature_heroes": [
+            "Visage",
+            "Ancient Apparition",
+            "Lion"
+        ],
+        "role": [
+            "coach",
+            "support"
+        ],
+        "history_teams": [
+            "iG.Z",
+            "LGD.cn",
+            "LV Gaming",
+            "EHOME",
+            "Vici Gaming Reborn",
+            "Vici Gaming",
+            "LGD.Forever Young",
+            "Team Root",
+            "Royal",
+            "CDEC Gaming"
+        ],
+        "ti_participations": 8,
+        "ti_best_placement": "3rd",
+        "status": "Inactive"
+    },
+    {
+        "id": "DeMoN",
+        "name": "Jimmy Ho",
+        "nationality": "United States",
+        "age": "34",
+        "current_team": "",
+        "signature_heroes": [
+            "Batrider",
+            "Sand King",
+            "Clockwerk"
+        ],
+        "role": [
+            "coach",
+            "support"
+        ],
+        "history_teams": [
+            "Meet Your Makers",
+            "Evil Geniuses",
+            "Take Five",
+            "Dignitas",
+            "MVP",
+            "Team Dog",
+            "Team Liquid",
+            "FIRE",
+            "Champions of Summer's Rift",
+            "High Council of Wizards&Priests",
+            "Monkey Freedom Fighters",
+            "As1-",
+            "EverNovaS",
+            "Views 6",
+            "Infamous",
+            "TNC Gaming",
+            "Fnatic",
+            "Team Onyx",
+            "Digital Chaos",
+            "compLexity Gaming",
+            "Tuho",
+            "Team Admiral",
+            "J.Storm",
+            "business associates",
+            "UD Vessuwan",
+            "Aristotle"
+        ],
+        "ti_participations": 4,
+        "ti_best_placement": "4th",
+        "status": "Inactive"
+    },
+    {
+        "id": "Dendi",
+        "name": "Данило Ішутін",
+        "nationality": "Ukraine",
+        "age": "35",
+        "current_team": "B8",
+        "signature_heroes": [
+            "Pudge",
+            "Shadow Fiend",
+            "Puck"
+        ],
+        "role": [
+            "mid",
+            "captain"
+        ],
+        "history_teams": [
+            "Wolker Gaming",
+            "Ks.int"
+        ],
+        "ti_participations": 7,
+        "ti_best_placement": "1st",
+        "status": "Active"
+    },
+    {
+        "id": "Deth",
+        "name": "楊武衡",
+        "nationality": "Singapore",
+        "age": "30",
+        "current_team": "",
+        "signature_heroes": [
+            "doom",
+            "batrider",
+            "axe"
+        ],
+        "role": [
+            "offlane"
+        ],
+        "history_teams": [
+            "Assail",
+            "Spac_ Creators",
+            "Nasty Potatoes",
+            "Team Flash",
+            "Entity Gaming",
+            "compLexity Gaming",
+            "Resurgence",
+            "Galaxy Racer",
+            "Fnatic"
+        ],
+        "ti_participations": 1,
+        "ti_best_placement": "9th - 12th",
+        "status": "Inactive"
+    },
+    {
+        "id": "Ditya_Ra",
+        "name": "Дмитрий Миненков",
+        "nationality": "Russia",
+        "age": "30",
+        "current_team": "",
+        "signature_heroes": [
+            "Lycan",
+            "Ursa",
+            "Ember Spirit"
+        ],
+        "role": [
+            "carry"
+        ],
+        "history_teams": [
+            "Power Rangers",
+            "Arcade.PowerRangers",
+            "No Logic Gaming",
+            "Natus Vincere",
+            "Vega Squadron",
+            "Planet Dog",
+            "Double Dimension"
+        ],
+        "ti_participations": 1,
+        "ti_best_placement": "13th - 16th",
+        "status": "Retired"
+    },
+    {
+        "id": "DkPhobos",
+        "name": "Олександр Кучеря",
+        "nationality": "Ukraine",
+        "age": "35",
+        "current_team": "",
+        "signature_heroes": [
+            "Puck",
+            "Dark Seer",
+            "Brewmaster"
+        ],
+        "role": [
+            "analyst",
+            "offlane"
+        ],
+        "history_teams": [
+            "2007-10-15 — 2008",
+            "DTS",
+            "2014-09-02 — 2014-09-18",
+            "Virtus.pro Polar",
+            "ASUS.Polar",
+            "Natus Vincere",
+            "Virtus.pro",
+            "Polarity",
+            "Team Spirit"
+        ],
+        "ti_participations": 1,
+        "ti_best_placement": "5th - 6th",
+        "status": "Active"
+    },
+    {
+        "id": "Dogf1ghts",
+        "name": "高天鹏",
+        "nationality": "China",
+        "age": "29",
+        "current_team": "",
+        "signature_heroes": [
+            "earth spirit",
+            "bounty hunter",
+            "shadow shaman"
+        ],
+        "role": [
+            "coach",
+            "support"
+        ],
+        "history_teams": [
+            "VG.Potential",
+            "iG.Vitality",
+            "Invictus Gaming",
+            "RNG",
+            "G2 x iG"
+        ],
+        "ti_participations": 1,
+        "ti_best_placement": "13th - 16th",
+        "status": "Active"
+    },
+    {
+        "id": "Dread",
+        "name": "Андрей Голубев",
+        "nationality": "Russia",
+        "age": "34",
+        "current_team": "",
+        "signature_heroes": [
+            "Weaver",
+            "Batrider",
+            "Enchantress"
+        ],
+        "role": [
+            "caster"
+        ],
+        "history_teams": [
+            "2006",
+            "Rush3d",
+            "RoX",
+            "DTS",
+            "Moscow Five",
+            "2011-03-31 — 2011-11-04",
+            "Darer",
+            "Virtus.pro",
+            "Eclypsia",
+            "United Sexy Boys",
+            "XX5 Gaming",
+            "Ice Climbers",
+            "3D!Clan",
+            "Relax",
+            "HellRaisers"
+        ],
+        "ti_participations": 1,
+        "ti_best_placement": "5th - 6th",
+        "status": "Inactive"
+    },
+    {
+        "id": "DuBu",
+        "name": "김두영",
+        "nationality": "South Korea",
+        "age": "31",
+        "current_team": "",
+        "signature_heroes": [
+            "witch doctor",
+            "earth spirit",
+            "bane"
+        ],
+        "role": [
+            "coach",
+            "captain"
+        ],
+        "history_teams": [
+            "MVP Phoenix",
+            "MVP HOT6ix",
+            "LoTem"
+        ],
+        "ti_participations": 5,
+        "ti_best_placement": "5th - 6th",
+        "status": "Active"
+    },
+    {
+        "id": "Dukalis",
+        "name": "Андрей Куропаткин",
+        "nationality": "Russia",
+        "age": "23",
+        "current_team": "PARIVISION",
+        "signature_heroes": [
+            "bane",
+            "Treant Protector",
+            "Nature's Prophet"
+        ],
+        "role": [
+            "support",
+            "captain"
+        ],
+        "history_teams": [
+            "Minus Modus",
+            "Majori Edut",
+            "Khan",
+            "Winstrike Team",
+            "PuckChamp",
+            "Alliance",
+            "Virtus.pro",
+            "cybercats",
+            "Luna Galaxy",
+            "Team Tickles",
+            "PSG Quest",
+            "PARIVISION"
+        ],
+        "ti_participations": 0,
+        "ti_best_placement": "",
+        "status": "Active"
+    },
+    {
+        "id": "Duster",
+        "name": "Heitor Pereira Liberado",
+        "nationality": "Brazil",
+        "age": "24",
+        "current_team": "",
+        "signature_heroes": [
+            "winter wyvern",
+            "Bane",
+            "Ancient Apparition"
+        ],
+        "role": [
+            "support"
+        ],
+        "history_teams": [
+            "Encore e-Sports",
+            "VINCE TE IPSUM",
+            "Prelude",
+            "Ode",
+            "Midas Club Elite"
+        ],
+        "ti_participations": 1,
+        "ti_best_placement": "17th - 18th",
+        "status": "Inactive"
+    },
+    {
+        "id": "Dy",
+        "name": "丁聪",
+        "nationality": "China",
+        "age": "28",
+        "current_team": "",
+        "signature_heroes": [
+            "disruptor",
+            "grimstroke",
+            "elder titan"
+        ],
+        "role": [
+            "support",
+            "captain"
+        ],
+        "history_teams": [
+            "VG.Potential",
+            "Taichi Gaming",
+            "Vici Gaming",
+            "Xtreme Gaming"
+        ],
+        "ti_participations": 3,
+        "ti_best_placement": "5th - 6th",
+        "status": "Retired"
+    },
+    {
+        "id": "Dyrachyo",
+        "name": "Антон Шкредов",
+        "nationality": "Russia",
+        "age": "23",
+        "current_team": "",
+        "signature_heroes": [
+            "Lifestealer",
+            "Chaos Knight",
+            "Terrorblade"
+        ],
+        "role": [
+            "carry"
+        ],
+        "history_teams": [
+            "Khan",
+            "Team Spirit",
+            "Gambit Esports",
+            "Winstrike Team",
+            "Team Tickles",
+            "Gaimin Gladiators",
+            "Tundra Esports"
+        ],
+        "ti_participations": 3,
+        "ti_best_placement": "2nd",
+        "status": "Active"
+    },
+    {
+        "id": "EGM",
+        "name": "Jerry Lundkvist",
+        "nationality": "Sweden",
+        "age": "33",
+        "current_team": "",
+        "signature_heroes": [
+            "Io",
+            "Rubick",
+            "Shadow Demon"
+        ],
+        "role": [
+            "support"
+        ],
+        "history_teams": [
+            "2011-??-?? — 2011-09-07",
+            "2011-09-07 — 2011-12-21",
+            "Team Infused",
+            "Turtle Masters",
+            "QPAD Red Pandas",
+            "No Tidehunter",
+            "Alliance",
+            "Team Tinker",
+            "4 Clover & Lepricon",
+            "Crescendo",
+            "Bursaspor Esports",
+            "The ReaL DeaL",
+            "Team Singularity",
+            "Bald",
+            "GODSENT"
+        ],
+        "ti_participations": 3,
+        "ti_best_placement": "1st",
+        "status": "Retired"
+    },
+    {
+        "id": "END",
+        "name": "杨璞",
+        "nationality": "China",
+        "age": "",
+        "current_team": "",
+        "signature_heroes": [
+            "Gyrocopter",
+            "Sven",
+            "Terrorblade"
+        ],
+        "role": [
+            "carry"
+        ],
+        "history_teams": [
+            "WPC Team A",
+            "TongFu.WanZhou",
+            "Orenda",
+            "LV Gaming",
+            "EHOME",
+            "Vici Gaming",
+            "Vici Gaming Potential",
+            "Vici Gaming Reborn",
+            "Invictus Gaming",
+            "Sun Gaming",
+            "Team Root"
+        ],
+        "ti_participations": 2,
+        "ti_best_placement": "5th - 6th",
+        "status": "Inactive"
+    },
+    {
+        "id": "Ekki",
+        "name": "Marcel Hołowienko",
+        "nationality": "Poland",
+        "age": "22",
+        "current_team": "MOUZ",
+        "signature_heroes": [
+            "sky",
+            "tiny",
+            "marci"
+        ],
+        "role": [
+            "Support"
+        ],
+        "history_teams": [
+            "The Cut"
+        ],
+        "ti_participations": 0,
+        "ti_best_placement": "",
+        "status": "Active"
+    },
+    {
+        "id": "Elmisho",
+        "name": "Yelsthin Brayan Verde Hurtado",
+        "nationality": "Peru",
+        "age": "",
+        "current_team": "OG.LATAM",
+        "signature_heroes": [
+            "Rubick",
+            "Tusk",
+            "Tiny"
+        ],
+        "role": [
+            "support"
+        ],
+        "history_teams": [
+            "SandBlood",
+            "Hokori"
+        ],
+        "ti_participations": 1,
+        "ti_best_placement": "13th - 16th",
+        "status": "Active"
+    },
+    {
+        "id": "Emo",
+        "name": "周一",
+        "nationality": "China",
+        "age": "24",
+        "current_team": "Yakult Brothers",
+        "signature_heroes": [
+            "storm spirit",
+            "ember spirit",
+            "void spirit"
+        ],
+        "role": [
+            "mid",
+            "carry"
+        ],
+        "history_teams": [
+            "Source Code",
+            "iG Vitality"
+        ],
+        "ti_participations": 1,
+        "ti_best_placement": "4th",
+        "status": "Active"
+    },
+    {
+        "id": "Eosin",
+        "name": "Steven Cheng",
+        "nationality": "United States",
+        "age": "",
+        "current_team": "",
+        "signature_heroes": [
+            "sand king",
+            "io"
+        ],
+        "role": [
+            "Observer"
+        ],
+        "history_teams": [
+            "Eosin + 4",
+            "Denial eSports",
+            "Team Zephyr"
+        ],
+        "ti_participations": 0,
+        "ti_best_placement": "",
+        "status": "Active"
+    },
+    {
+        "id": "Era",
+        "name": "Adrian Kryeziu",
+        "nationality": "Sweden",
+        "age": "29",
+        "current_team": "",
+        "signature_heroes": [
+            "rubick",
+            "lion",
+            "earth spirit"
+        ],
+        "role": [
+            "support",
+            "carry"
+        ],
+        "history_teams": [
+            "Fnatic.EU",
+            "LAJONS",
+            "Ninjas in Pyjamas",
+            "Steak Gaming",
+            "No Diggity",
+            "Escape Gaming",
+            "January 25th",
+            "Alliance",
+            "The Final Tribe",
+            "GODSENT",
+            "Chicken Fighters",
+            "High Coast Esports"
+        ],
+        "ti_participations": 3,
+        "ti_best_placement": "7th - 8th",
+        "status": "Retired"
+    },
+    {
+        "id": "Erika",
+        "name": "杨绍瀚",
+        "nationality": "China",
+        "age": "",
+        "current_team": "",
+        "signature_heroes": [
+            "morphling",
+            "weaver",
+            "Muerta"
+        ],
+        "role": [
+            "carry"
+        ],
+        "history_teams": [
+            "KG.Luminous",
+            "Keen Gaming",
+            "Vici Gaming",
+            "The Last Dark",
+            "Team Aster",
+            "Team Zero"
+        ],
+        "ti_participations": 2,
+        "ti_best_placement": "5th - 6th",
+        "status": "Active"
+    },
+    {
+        "id": "EternaLEnVy",
+        "name": "Jacky Mao",
+        "nationality": "Canada",
+        "age": "33",
+        "current_team": "",
+        "signature_heroes": [
+            "Terrorblade",
+            "Drow Ranger",
+            "Ember Spirit"
+        ],
+        "role": [
+            "carry",
+            "mid"
+        ],
+        "history_teams": [
+            "No Tidehunter",
+            "Kaipi",
+            "RSnake.int",
+            "Speed Gaming.int",
+            "Cloud9",
+            "Team Secret",
+            "Team NP",
+            "Thunderbirds",
+            "Fnatic",
+            "compLexity Gaming",
+            "Infamous",
+            "Flying Penguins",
+            "TEAM TEAM",
+            "beastcoast",
+            "Fighting PandaS",
+            "business associates",
+            "Black N Yellow",
+            "Sadboys"
+        ],
+        "ti_participations": 5,
+        "ti_best_placement": "5th - 6th",
+        "status": "Retired"
+    },
+    {
+        "id": "Eyyou",
+        "name": "Nico Barcelon",
+        "nationality": "ph",
+        "age": "",
+        "current_team": "",
+        "signature_heroes": [
+            "Earthshaker",
+            "Vengeful Spirit",
+            "Oracle"
+        ],
+        "role": [
+            "support",
+            "captain"
+        ],
+        "history_teams": [
+            "TNC Pro Team",
+            "Fnatic",
+            "HappyFeet",
+            "Mineski.GGNetwork",
+            "Entity Gaming",
+            "TNC Predator",
+            "Lotac",
+            "Polaris Esports",
+            "BLCK"
+        ],
+        "ti_participations": 2,
+        "ti_best_placement": "7th - 8th",
+        "status": "Active"
+    },
+    {
+        "id": "FLUFFNSTUFF",
+        "name": "Brian Lee",
+        "nationality": "United States",
+        "age": "32",
+        "current_team": "TL.net",
+        "signature_heroes": [
+            "rubick",
+            "chen",
+            "mirana"
+        ],
+        "role": [
+            "support",
+            "captain"
+        ],
+        "history_teams": [
+            "FIRE",
+            "compLexity",
+            "Team Liquid",
+            "Sneaky Nyx Assassins",
+            "ROOT Gaming",
+            "Team Archon",
+            "EverNovaS",
+            "Kaipi"
+        ],
+        "ti_participations": 2,
+        "ti_best_placement": "7th - 8th",
+        "status": "Retired"
+    },
+    {
+        "id": "Faith",
+        "name": "曾宏达",
+        "nationality": "China",
+        "age": "33",
+        "current_team": "",
+        "signature_heroes": [
+            "Ancient Apparition",
+            "Rubick",
+            "Shadow Shaman"
+        ],
+        "role": [
+            "coach",
+            "support"
+        ],
+        "history_teams": [
+            "TyLoo",
+            "iG.Z",
+            "Invictus Gaming",
+            "LGD.cn",
+            "TongFu",
+            "Newbee",
+            "Mr Game Boy",
+            "Newbee Young",
+            "Typhoon E-Sports Club",
+            "LBZS"
+        ],
+        "ti_participations": 7,
+        "ti_best_placement": "1st",
+        "status": "Inactive"
+    },
+    {
+        "id": "Faith_bian",
+        "name": "张睿达",
+        "nationality": "China",
+        "age": "",
+        "current_team": "All Gamers Global",
+        "signature_heroes": [
+            "Beastmaster",
+            "Batrider",
+            "Clockwerk"
+        ],
+        "role": [
+            "offlane"
+        ],
+        "history_teams": [
+            "Speed Gaming.cn",
+            "Wings Gaming",
+            "Team Random",
+            "EHOME",
+            "PSG.LGD",
+            "Azure Ray",
+            "Team Tidebound",
+            "All Gamers Global"
+        ],
+        "ti_participations": 3,
+        "ti_best_placement": "1st",
+        "status": "Active"
+    },
+    {
+        "id": "Fata",
+        "name": "Adrian Trinks",
+        "nationality": "Germany",
+        "age": "32",
+        "current_team": "",
+        "signature_heroes": [
+            "Snapfire",
+            "Ogre Magi",
+            "Jakiro"
+        ],
+        "role": [
+            "support",
+            "captain"
+        ],
+        "history_teams": [
+            "We haz Asian",
+            "Kaipi",
+            "Team Zero",
+            "mousesports",
+            "DD.Dota",
+            "Sigma.int",
+            "Team Dog",
+            "Cloud9",
+            "5Jungz",
+            "Team Liquid",
+            "B)ears",
+            "Team NP",
+            "Team Secret",
+            "Ninjas in Pyjamas",
+            "Alliance",
+            "mudgolems",
+            "Tundra Esports",
+            "Quincy Crew",
+            "Soniqs"
+        ],
+        "ti_participations": 8,
+        "ti_best_placement": "5th - 6th",
+        "status": "Inactive"
+    },
+    {
+        "id": "Fbz",
+        "name": "Saieful Ilham",
+        "nationality": "Indonesia",
+        "age": "",
+        "current_team": "",
+        "signature_heroes": [
+            "centaur warrunner",
+            "puck",
+            "beastmaster"
+        ],
+        "role": [
+            "offlane"
+        ],
+        "history_teams": [
+            "Pandora Esports",
+            "BOOM Esports",
+            "Team Secret",
+            "Nigma Galaxy"
+        ],
+        "ti_participations": 1,
+        "ti_best_placement": "9th - 12th",
+        "status": "Active"
+    },
+    {
+        "id": "Fear_(Clinton_Loomis)",
+        "name": "Clinton Loomis",
+        "nationality": "United States",
+        "age": "37",
+        "current_team": "",
+        "signature_heroes": [
+            "sven",
+            "lycan",
+            "lifestealer"
+        ],
+        "role": [
+            "analyst",
+            "caster"
+        ],
+        "history_teams": [
+            "2005-??-?? — 2006-??-??",
+            "compLexity Gaming",
+            "PluG Pullers v2",
+            "Meet Your Makers",
+            "Evil Geniuses",
+            "Blight.int",
+            "Nirvana.int",
+            "Lost.eu",
+            "Browned Potatoes",
+            "Online Kingdom",
+            "2011-08-11 — 2011-11-23",
+            "J.Storm",
+            "business associates",
+            "Sadboys",
+            "Thunder Predator"
+        ],
+        "ti_participations": 4,
+        "ti_best_placement": "1st",
+        "status": "Active"
+    },
+    {
+        "id": "Febby",
+        "name": "김용민",
+        "nationality": "South Korea",
+        "age": "32",
+        "current_team": "",
+        "signature_heroes": [
+            "Io",
+            "Bounty Hunter",
+            "Tusk"
+        ],
+        "role": [
+            "support",
+            "captain"
+        ],
+        "history_teams": [
+            "Kaipi",
+            "For Our Utopia",
+            "Pokerface"
+        ],
+        "ti_participations": 3,
+        "ti_best_placement": "5th - 6th",
+        "status": "Active"
+    },
+    {
+        "id": "Feimao",
+        "name": "นพดล เผ่าพงษ์ประพันธ์",
+        "nationality": "Thailand",
+        "age": "",
+        "current_team": "",
+        "signature_heroes": [
+            "Rubick",
+            "shadow demon",
+            "Skywrath Mage"
+        ],
+        "role": [
+            "streamer",
+            "support"
+        ],
+        "history_teams": [
+            "MiTH.Trust",
+            "Signature.Trust",
+            "Trust",
+            "ALPHA Blue",
+            "Reaper"
+        ],
+        "ti_participations": 1,
+        "ti_best_placement": "7th - 8th",
+        "status": "Retired"
+    },
+    {
+        "id": "Fenrir",
+        "name": "卢超",
+        "nationality": "China",
+        "age": "36",
+        "current_team": "",
+        "signature_heroes": [
+            "Shadow Demon",
+            "Skywrath Mage",
+            "Visage"
+        ],
+        "role": [
+            "coach",
+            "support"
+        ],
+        "history_teams": [
+            "Vici Gaming"
+        ],
+        "ti_participations": 4,
+        "ti_best_placement": "2nd",
+        "status": "Active"
+    },
+    {
+        "id": "Ferrari_430",
+        "name": "骆非池",
+        "nationality": "China",
+        "age": "35",
+        "current_team": "",
+        "signature_heroes": [
+            "Shadow Fiend",
+            "Templar Assassin",
+            "Invoker"
+        ],
+        "role": [
+            "mid"
+        ],
+        "history_teams": [
+            "iG.Z",
+            "Invictus Gaming",
+            "Newbee Boss",
+            "Big God",
+            "Young Dumb",
+            "Mr Game Boy",
+            "EHOME"
+        ],
+        "ti_participations": 5,
+        "ti_best_placement": "1st",
+        "status": "Retired"
+    },
+    {
+        "id": "Fishman",
+        "name": "Дзмітрый Палішчук",
+        "nationality": "Belarus",
+        "age": "29",
+        "current_team": "1win Team",
+        "signature_heroes": [
+            "bane",
+            "disruptor",
+            "grimstroke"
+        ],
+        "role": [
+            "support"
+        ],
+        "history_teams": [
+            "The Brestomans",
+            "Nemiga Gaming",
+            "Vega Squadron",
+            "Khan",
+            "B8",
+            "Creepwave",
+            "Into The Breach",
+            "Entity",
+            "Cloud9",
+            "1win Team"
+        ],
+        "ti_participations": 3,
+        "ti_best_placement": "5th - 6th",
+        "status": "Active"
+    },
+    {
+        "id": "Fly",
+        "name": "טל אייזיק",
+        "nationality": "Israel",
+        "age": "32",
+        "current_team": "AVULUS",
+        "signature_heroes": [
+            "Dazzle",
+            "Crystal Maiden",
+            "Phoenix"
+        ],
+        "role": [
+            "support",
+            "captain"
+        ],
+        "history_teams": [
+            "Fnatic",
+            "Team Secret",
+            "MeePwn'd",
+            "compLexity Gaming",
+            "(monkey) Business",
+            "OG",
+            "Evil Geniuses",
+            "Talon Esports",
+            "Shopify Rebellion",
+            "Nouns Esports",
+            "AVULUS"
+        ],
+        "ti_participations": 11,
+        "ti_best_placement": "3rd",
+        "status": "Active"
+    },
+    {
+        "id": "Flyby",
+        "name": "苏磊",
+        "nationality": "China",
+        "age": "28",
+        "current_team": "",
+        "signature_heroes": [
+            "Dark Seer",
+            "Omniknight",
+            "Doom"
+        ],
+        "role": [
+            "offlane",
+            "carry"
+        ],
+        "history_teams": [
+            "CDEC Avenger",
+            "CDEC Gaming",
+            "Royal",
+            "Royal Never Give Up"
+        ],
+        "ti_participations": 1,
+        "ti_best_placement": "7th - 8th",
+        "status": "Inactive"
+    },
+    {
+        "id": "Flyfly",
+        "name": "金志意",
+        "nationality": "China",
+        "age": "28",
+        "current_team": "Yakult Brothers",
+        "signature_heroes": [
+            "Juggernaut",
+            "Anti-Mage",
+            "Faceless Void"
+        ],
+        "role": [
+            "carry",
+            "mid"
+        ],
+        "history_teams": [
+            "Five Personal Beliefs",
+            "DUOBAO",
+            "EHOME.Keen"
+        ],
+        "ti_participations": 2,
+        "ti_best_placement": "4th",
+        "status": "Active"
+    },
+    {
+        "id": "Fn",
+        "name": "Ростислав Лозовой",
+        "nationality": "Ukraine",
+        "age": "30",
+        "current_team": "",
+        "signature_heroes": [
+            "Shadow Fiend",
+            "Storm Spirit",
+            "Juggernaut"
+        ],
+        "role": [
+            "coach",
+            "mid"
+        ],
+        "history_teams": [
+            "Insane Gaming",
+            "Nightcore",
+            "Little Busters 4ever"
+        ],
+        "ti_participations": 1,
+        "ti_best_placement": "7th - 8th",
+        "status": "Active"
+    },
+    {
+        "id": "Fng",
+        "name": "Арцём Баршак",
+        "nationality": "Belarus",
+        "age": "29",
+        "current_team": "Virtus.pro",
+        "signature_heroes": [
+            "Bane",
+            "Vengeful Spirit",
+            "Disruptor"
+        ],
+        "role": [
+            "streamer",
+            "support"
+        ],
+        "history_teams": [
+            "Power Rangers"
+        ],
+        "ti_participations": 3,
+        "ti_best_placement": "5th - 6th",
+        "status": "Active"
+    }
+]

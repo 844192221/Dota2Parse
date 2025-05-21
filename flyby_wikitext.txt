@@ -1,0 +1,61 @@
+{{Player Tabs|tabs=y|player=y|coach=y}}
+{{Infobox player
+|id=Flyby
+|ids=Flywin<!--DPC 2019/20-->, FishMan<!--DPC 2021/22-->
+|image=Flyby-RNG 2019.jpg
+|name=苏磊
+|romanized_name=Su Lei
+|givenname=Lei
+|familyname=Su
+|birth_date=1997-03-10
+|country=China
+|status=Inactive
+|banned=Valve
+|banned2=Perfect World
+|team=
+|role=offlane
+|role2=carry
+|hero=Dark Seer
+|hero2=Omniknight
+|hero3=Doom
+|weibo=5487788515
+|playerid=186627166
+|history=
+{{TH|2015-12-?? — 2016-09-17|CDEC Avenger}}
+{{TH|2018-09-14 — 2018-10-??|CDEC Gaming}}
+{{TH|2018-11-?? — 2018-12-18|Royal}}
+{{TH|2018-12-19 — 2019-03-19|Royal Never Give Up}}
+{{THA}}
+}}
+
+{{PlayerIntro}}
+
+In March 2023, he is permanently banned by [[Valve]] and [[Perfect World]] due to foul play.<ref>{{cite web|url=https://weibo.com/3083660057/MwtHRppi0|title=关于干扰公平竞赛选手的处罚公告|author=DOTA2|publisher=Weibo|date=2023-03-09}}</ref>
+
+==Trivia==
+*He changed his in-game ID from "Flyby" to "Flywin" during the [[Dota_Pro_Circuit/2019-20|2019/20 DPC Season]]. He later revealed in an interview held during [[China Dota2 Pro Cup/2|China Dota2 Pro Cup S2]] that the reason for this change is because the id "Flyby" kept losing matches, therefore the manager asked him to change the id, though he later reverted it back to "Flyby", as he said the initial change was "forced".
+
+==Achievements==
+{{tabs dynamic
+|name1=As Player
+|name2=As Coach
+|content1={{player achievements table}}
+|content2={{Coach achievements table}}
+|This=1
+}}
+
+==Awards==
+{{player awards table}}
+
+==Gallery==
+<gallery mode="packed-hover" heights="275px">
+Flyby StarLadder ImbaTV Minor Season 1.jpg|Flyby at [[StarLadder_ImbaTV/Minor/Season_1|StarLadder ImbaTV Dota 2 Minor Season 1]] (2019)
+Flywin WePlay! Bukovel Minor 2020.jpg|Flywin at [[WePlay/Bukovel_Minor/2020|WePlay! Bukovel Minor 2020]]
+</gallery>
+
+==External Links==
+*Alternative player id: [https://www.dotabuff.com/esports/players/117960951 117960951]
+
+==References==
+{{Reflist}}
+{{Player team roster}}
